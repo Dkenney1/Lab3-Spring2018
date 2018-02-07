@@ -21,6 +21,6 @@ public class Main {
         return contents;
     }
     public static void main(String[] args) {
-        System.out.println(urlToString("http://erdani.com/tdpl/hamlet.txt"));
+        //System.out.println(urlToString("http://erdani.com/tdpl/hamlet.txt"));
     }
 }
